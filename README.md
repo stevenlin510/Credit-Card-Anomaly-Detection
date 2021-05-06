@@ -1,4 +1,4 @@
-# Credit-Card-Anomaly-Detection
+# Credit-Card-Fraud-Detection
 
 ## Introduction
 We use four different methods to complish this task. 
